@@ -25,6 +25,17 @@
                     <input type="text" name="surname" id="" class="form-control" placeholder="Surname" required>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-5">
+                    <label for="fn">First Name :</label>
+                    <input type="text" name="fn" id="" class="form-control" placeholder="First Name" required>
+                </div>
+                <div class="col-1">&nbsp;</div>
+                <div class="col-5">
+                    <label for="ln">Last Name : </label>
+                    <input type="text" name="ln" id="" class="form-control" placeholder="Last Name" required>
+                </div>
+            </div>
         </form>
 
 
