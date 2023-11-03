@@ -22,6 +22,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <label for="surname">Surname</label>
+                    <input type="text" name="surname" id="" class="form-control" placeholder="Surname">
                 </div>
             </div>
         </form>
