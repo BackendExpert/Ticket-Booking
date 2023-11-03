@@ -25,6 +25,7 @@
                     <input type="text" name="surname" id="" class="form-control" placeholder="Surname" required>
                 </div>
             </div>
+            <br>
             <div class="row">
                 <div class="col-5">
                     <label for="fn">First Name :</label>
