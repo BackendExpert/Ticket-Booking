@@ -4,6 +4,11 @@
 <div class="container">
     <section class="booking-section">
         <h2>Book A ticket</h2>
+        <hr>
+
+
+        <hr>
+        
     </section>
 </div>
 
