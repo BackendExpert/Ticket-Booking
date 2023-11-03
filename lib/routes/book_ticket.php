@@ -18,6 +18,12 @@
                     <input type="email" name="user_email" id="" class="form-control" placeholder="Email">
                 </div>
             </div>
+            <br>
+            <div class="row">
+                <div class="col-lg-12">
+                    <label for="surname">Surname</label>
+                </div>
+            </div>
         </form>
 
 
