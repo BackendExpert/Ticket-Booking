@@ -32,7 +32,7 @@
                     <input type="text" name="fn" id="" class="form-control" placeholder="First Name" required>
                 </div>
                 <div class="col-1">&nbsp;</div>
-                <div class="col-5">
+                <div class="col-6">
                     <label for="ln">Last Name : </label>
                     <input type="text" name="ln" id="" class="form-control" placeholder="Last Name" required>
                 </div>
