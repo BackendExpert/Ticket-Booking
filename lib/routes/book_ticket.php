@@ -6,6 +6,13 @@
         <h2>Book A ticket</h2>
         <hr>
 
+        <?php 
+            if(isset($_POST['book_ticket'])){
+                $result = book_ticket($_POST['user_nic'],$_POST['user_email'],$_POST['surname'],$_POST['fn'],$_POST['ln']);
+                echo $result;
+            }
+        ?>
+
         <form action="<?php echo($_SERVER['PHP_SELF']);?>" method="POST">
             <div class="row">
                 <div class="col-lg-5">
