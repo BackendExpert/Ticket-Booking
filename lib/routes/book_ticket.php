@@ -41,7 +41,9 @@
                 <div class="col-lg-6">
                     <input type="reset" value="Clear" class="btn btn-secondary">
                 </div>
-                <div class="col-lg-6"></div>
+                <div class="col-lg-6">
+                    <input type="submit" value="Book A Ticket" name="book_ticket" class="btn btn-success">
+                </div>
             </div>
         </form>
 
