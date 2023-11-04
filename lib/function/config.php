@@ -3,7 +3,9 @@
         $server = "localhost";
         $user = "root";
         $pass = "";
-        $db = "";
+        $db = "e_ticketing_db";
+
+        
     }
 
 ?>
