@@ -4,8 +4,8 @@
 <link rel="stylesheet" href="../../css/app.css">
 
 <div class="container">
-    <section class="confarm-section">
-        <h2></h2>
+    <section class="confirm-section">
+        <h2>Confirm Information</h2>
     </section>
 </div>
 
