@@ -15,6 +15,6 @@
         $insert_data = "INSERT INTO user_tbl(nic,email,sname,fname,lname)VALUES('$nic','$email','$sn','$fn','$ln')";
         $insert_data_result = mysqli_query($con, $insert_data);
 
-        header("location:../user_data.php");
+        header("location:user_data.php");
     }
 ?>
