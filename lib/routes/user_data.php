@@ -6,6 +6,7 @@
 <div class="container">
     <section class="confirm-section">
         <h2>Confirm Information</h2>
+        <hr>
     </section>
 </div>
 
