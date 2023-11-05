@@ -7,3 +7,6 @@
 footer{
     text-align: center;
 }
+.confirm-section{
+    @extend .booking-section;
+}

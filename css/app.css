@@ -1,8 +1,8 @@
-.booking-section {
+.booking-section, .confirm-section {
   padding: 20px 0;
 }
 
-.booking-section h2 {
+.booking-section h2, .confirm-section h2 {
   text-align: center;
 }
 
